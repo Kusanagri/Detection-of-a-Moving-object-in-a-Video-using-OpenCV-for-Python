@@ -1,0 +1,3 @@
+The Object detection may still include noise due to certain moving objects such as trees, fast moving objects, etc.
+The required result maybe obatined by applying smoothing and blurs
+Different blurs such as MedianBlur, GaussianBlur, BilateralFilter can be applied
